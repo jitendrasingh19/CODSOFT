@@ -1,4 +1,5 @@
 # CODSOFT
 I develop these projects using JAVA.
 1st - calculator which calculates Grade of a student according to the marks he/she obtained in each subject.
-2nd - 
+2nd - Currency converter which is suitable for convert the given currency to other.
+3rd - 
